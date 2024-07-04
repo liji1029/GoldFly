@@ -1,0 +1,2 @@
+# GoldFly
+gold pickup
